@@ -1,0 +1,6 @@
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\bin\Debug\HeapSort2.exe.config
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\bin\Debug\HeapSort2.exe
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\bin\Debug\HeapSort2.pdb
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\obj\Debug\HeapSort2.csprojAssemblyReference.cache
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\obj\Debug\HeapSort2.exe
+C:\Users\augus\Desktop\Kazkas\HeapSort2\HeapSort2\obj\Debug\HeapSort2.pdb
